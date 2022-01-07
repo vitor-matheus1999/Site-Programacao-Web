@@ -1,2 +1,2 @@
-# Site-b-sico-Viagem-N-o-Viagem-
-Site criado nas aulas de Programação Web na ETEC 
+# Site Básico "Viagem Não é Viagem"#
+Site criado por mimnas aulas de Programação Web na ETEC 
