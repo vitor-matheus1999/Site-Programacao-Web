@@ -1,0 +1,38 @@
+.listaDePraias{
+    
+    width:50%;
+    padding: 90px;
+    padding-top:30px;
+    background:white;
+    border-radius: 10px;
+    display: inline-block;
+    border:3px solid #36270D;
+
+
+}
+
+img{
+
+    width:90%;
+}
+
+.outrosPosts{
+
+    padding:45px;
+    background-color: #F5B33B;
+    position:absolute;
+    border:3px solid #36270D ;
+    border-top-right-radius:40px ;
+    border-bottom-left-radius: 40px ;
+    margin-left:890px;
+    width:210px;
+    height:400px;
+}
+
+.links :hover{
+
+    color:blue;
+    cursor: pointer;
+
+
+}
